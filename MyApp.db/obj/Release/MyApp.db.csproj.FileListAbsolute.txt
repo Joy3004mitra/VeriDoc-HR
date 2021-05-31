@@ -1,0 +1,74 @@
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csprojAssemblyReference.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CoreCompileInputs.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CopyComplete
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.pdb
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.pdb
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.pdb
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csprojAssemblyReference.cache
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CoreCompileInputs.cache
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CopyComplete
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\Newtonsoft.Json.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.db\bin\Release\Newtonsoft.Json.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\Newtonsoft.Json.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\Newtonsoft.Json.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csprojAssemblyReference.cache
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CoreCompileInputs.cache
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CopyComplete
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\MyApp.db.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\Newtonsoft.Json.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\MyApp.Entity.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\Newtonsoft.Json.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Configuration.ConfigurationManager.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Security.AccessControl.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Permissions.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\bin\Release\System.Security.Principal.Windows.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csprojAssemblyReference.cache
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CoreCompileInputs.cache
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.csproj.CopyComplete
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\MyApp.db\obj\Release\MyApp.db.pdb

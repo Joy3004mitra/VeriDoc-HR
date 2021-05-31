@@ -1,0 +1,496 @@
+F:\yourflow\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csprojAssemblyReference.cache
+F:\yourflow\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CoreCompileInputs.cache
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll.config
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.pdb
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe.config
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.rsp
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe.config
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.rsp
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Managed.Core.targets
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.AppContext.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Collections.Immutable.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Console.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Globalization.Calendars.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Http.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Sockets.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Reflection.Metadata.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.ValueTuple.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XmlDocument.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe.config
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.rsp
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe.config
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\Microsoft.Web.Infrastructure.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\MyApp.db.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\MyApp.db.pdb
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.pdb
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.xml
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.xml
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.xml
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.xml
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.xml
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.xml
+F:\yourflow\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\yourflow\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CopyComplete
+F:\yourflow\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.dll
+F:\yourflow\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll.config
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe.config
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.rsp
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe.config
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.rsp
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.AppContext.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Collections.Immutable.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Console.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Globalization.Calendars.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Http.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Sockets.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Reflection.Metadata.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.ValueTuple.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe.config
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.rsp
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe.config
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Microsoft.Web.Infrastructure.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\MyApp.db.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\MyApp.db.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csprojAssemblyReference.cache
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CoreCompileInputs.cache
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CopyComplete
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.pdb
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll.config
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.pdb
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe.config
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.rsp
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe.config
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.rsp
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.AppContext.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Collections.Immutable.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Console.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Globalization.Calendars.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Http.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Sockets.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Reflection.Metadata.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.ValueTuple.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe.config
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.rsp
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe.config
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\Microsoft.Web.Infrastructure.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\MyApp.db.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\MyApp.db.pdb
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.pdb
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csprojAssemblyReference.cache
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CoreCompileInputs.cache
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CopyComplete
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.dll
+D:\VERIDOC_HR\MVC\New folder\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll.config
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe.config
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.rsp
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe.config
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.rsp
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.AppContext.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Collections.Immutable.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Console.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Globalization.Calendars.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Http.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Sockets.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Reflection.Metadata.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.ValueTuple.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe.config
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.rsp
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe.config
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Microsoft.Web.Infrastructure.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\MyApp.db.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Polly.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Square.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\MyApp.db.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Polly.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Polly.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csprojAssemblyReference.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CoreCompileInputs.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CopyComplete
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Polly.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Square.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Polly.pdb
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\Polly.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.xml
+E:\Office Project\###MVC\VeridocHR\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll.config
+F:\Work\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.pdb
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe.config
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.rsp
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe.config
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.rsp
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.AppContext.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Collections.Immutable.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Console.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Globalization.Calendars.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Http.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Sockets.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Reflection.Metadata.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.ValueTuple.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe.config
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.rsp
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe
+F:\Work\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe.config
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Microsoft.Web.Infrastructure.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\MyApp.db.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Polly.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Square.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.dll
+F:\Work\VeriDoc HR\VeriDoc HR\bin\MyApp.db.pdb
+F:\Work\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.pdb
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Polly.pdb
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Polly.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.xml
+F:\Work\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Work\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csprojAssemblyReference.cache
+F:\Work\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CoreCompileInputs.cache
+F:\Work\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CopyComplete
+F:\Work\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.dll
+F:\Work\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll.config
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\VeriDoc HR.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.exe.config
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\csc.rsp
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.exe.config
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\csi.rsp
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.AppContext.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Collections.Immutable.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Console.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Globalization.Calendars.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Http.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Net.Sockets.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Reflection.Metadata.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.ValueTuple.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.exe.config
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\vbc.rsp
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\roslyn\VBCSCompiler.exe.config
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Microsoft.Web.Infrastructure.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\MyApp.db.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Polly.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Square.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\MyApp.db.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\MyApp.Entity.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Newtonsoft.Json.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Polly.pdb
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Polly.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Collections.Immutable.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Razor.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Deployment.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Webpages.Razor.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Helpers.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\System.Web.Mvc.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csprojAssemblyReference.cache
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CoreCompileInputs.cache
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.csproj.CopyComplete
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.dll
+E:\Office Project\###MVC\#VeriDoc HR\VeriDoc HR\VeriDoc HR\obj\Debug\VeriDoc HR.pdb

@@ -1,0 +1,519 @@
+﻿@{
+    ViewBag.Title = "HomeSetting";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+
+@section FormName{
+
+    <i class="icon-home2 mr-2"></i>Home Settings
+
+
+}
+
+@section StyleCss{
+
+    <style type="text/css">
+        .filename {
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .preview {
+            height: 280px;
+        }
+
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 100; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 0;
+            top: 23px;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.73); /* Black w/ opacity */
+        }
+
+        .modal-content {
+            margin: auto;
+            margin-bottom: 10%;
+            display: block;
+            width: 32%;
+            max-width: 800px;
+        }
+
+        .modal-content {
+            -webkit-animation-name: zoom;
+            -webkit-animation-duration: 0.6s;
+            animation-name: zoom;
+            animation-duration: 0.6s;
+        }
+
+        @@-webkit-keyframes zoom {
+            from {
+                -webkit-transform: scale(0)
+            }
+
+            to {
+                -webkit-transform: scale(1)
+            }
+        }
+
+        @@keyframes zoom {
+            from {
+                transform: scale(0)
+            }
+
+            to {
+                transform: scale(1)
+            }
+        }
+
+        .close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+            .close:hover,
+            .close:focus {
+                color: #bbb;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+        @@media only screen and (max-width: 700px) {
+            .modal-content {
+                width: 90%;
+            }
+        }
+    </style>
+}
+<script>
+    function OpenTab1(strMsg, error) {
+        $("#tab1").fadeIn();
+        $("#tab3").hide();
+        $("#tab2").hide();
+        if ($.trim(strMsg) != '') {
+            if (error == 1)
+                openErrorPopup(strMsg);
+            else
+                openSuccessPopup(strMsg);
+        }
+    }
+
+</script>
+<div id="myModal" class="modal">
+    <span class="close">&times;</span>
+</div>
+
+<div>
+
+    <input type="hidden" name="hf_DTLS_INTERFACE_KEY" id="hf_DTLS_INTERFACE_KEY" value="0" />
+
+    <input type="hidden" name="hf_SERVICE_IMG" id="hf_SERVICE_IMG" value="" />
+    <input type="hidden" name="hf_INTERFACE_IMG" id="hf_INTERFACE_IMG" value="" />
+
+    <input type="hidden" name="hf_QUICK_FACT_TABLE_IMG" id="hf_QUICK_FACT_TABLE_IMG" value="" />
+</div>
+<div id="tab1" class="card">
+    @using (Html.BeginForm("btn_Head_Save_Click", "HomeSetting", FormMethod.Post, new { id = "submitform", enctype = "multipart/form-data" }))
+    {
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-12">
+                    <fieldset>
+                        <legend>Banner Section</legend>
+
+
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <input type="hidden" name="hf_BANNER_IMG" id="hf_BANNER_IMG" value="@ViewBag.BANNER_IMG" />
+                                <input type="hidden" name="hf_PATENT_IMG" id="hf_PATENT_IMG" value="@ViewBag.PATENTED_IMG " />
+                                <div class="form-group">
+                                    <label>
+                                        Heading
+                                    </label>
+                                    <input type="text" name="txt_BANNER_HEADING" id="txt_BANNER_HEADING" value="@ViewBag.BANNER_HEADING" class="form-control" />
+
+                                </div>
+                                <div class="form-group">
+                                    <label>
+                                        Description
+                                    </label>
+                                    <input type="text" name="txt_BANNER_DESC" id="txt_BANNER_DESC" value="@ViewBag.BANNER_DESC" class="form-control" />
+
+
+                                </div>
+
+                                <div class="form-group">
+                                    <label>
+                                        Note
+                                    </label>
+                                    <input type="text" name="txt_BANNER_NOTE" id="txt_BANNER_NOTE" value="@ViewBag.BANNER_NOTE" class="form-control" />
+
+                                </div>
+                                <div class="form-group">
+                                    <label>
+                                        Google Play Link
+                                    </label>
+                                    <input type="text" name="txt_GOOGLEPLAY_LINK" id="txt_GOOGLEPLAY_LINK" value="@ViewBag.GOOGLEPLAY_LINK" class="form-control" />
+
+                                </div>
+                                <div class="form-group">
+                                    <label>
+                                        App Store Link
+                                    </label>
+                                    <input type="text" name="txt_APPSTORE_LINK" id="txt_APPSTORE_LINK" value="@ViewBag.APPSTORE_LINK" class="form-control" />
+
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <fieldset>
+                                    <legend>Banner Image</legend>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label>
+                                                    Upload Image (Accepted Format .png, .jpg, .jpeg only. Max size 2MB)
+                                                </label>
+                                                <input type="file" name="fu_Banner" id="fu_Banner" class="form-input-styled" data-fouc accept=".gif, .png, .jpg, .jpeg, .svg" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-8 ml-auto mr-auto">
+                                            <img id="img_banner" src="@ViewBag.img_banner" class="form-control preview" runat="server" />
+                                        </div>
+                                    </div>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="col-md-12">
+                    <fieldset>
+                        <legend>Patent Details Section</legend>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label>
+                                    Heading
+                                </label>
+                                <input type="text" id="txt_PATENTED_HEADING" name="txt_PATENTED_HEADING" value="@ViewBag.PATENTED_HEADING" class="form-control" />
+
+                            </div>
+                        </div>
+
+                        <div class="row">
+
+                            <div class="col-md-8">
+                                <fieldset>
+                                    @using (Html.BeginForm("btn_QuickFactTable_Save_Click", "HomeSetting", FormMethod.Post, new { id = "from_Quick_fact_save" }))
+                                    {
+                                        <input type="hidden" name="hf_PATENT_KEY" id="hf_PATENT_KEY" value="@ViewBag.PATENT_KEY" />
+
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label>
+                                                        Description
+                                                    </label>
+                                                    <input type="text" id="txt_PATENT_DESC" name="txt_PATENT_DESC" value="@ViewBag.PATENT_DESC" class="form-control" />
+
+                                                </div>
+                                            </div>
+                                            <div class="col-md-1">
+                                                <div class="form-group addres">
+                                                    <label>
+                                                        &nbsp;
+                                                    </label>
+                                                    <input type="submit" id="btn_Quick_fact_save" formaction="btn_QuickFactTable_Save_Click" formmethod="post" value="Add +" class="btn btn-primary form-control" />
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <div class="table-responsive">
+                                                <table cellspacing="0" rules="all" class="table table-bordered table-sm table-hover" border="1" id="gvQuickFact" style="border-collapse:collapse;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <th>Quick Fact Description</th>
+                                                            <th>Edit</th>
+                                                            <th>Delete</th>
+                                                        </tr>
+
+
+                                                        @{
+                                                            int i = 0;
+                                                        }
+                                                        @foreach (System.Data.DataRow dr in Model)
+                                                        {
+                                                            <tr>
+
+                                                                <td>@dr["PATENT_DESC"].ToString()</td>
+
+                                                                <td>
+                                                                    @using (Html.BeginForm("edit", "HomeSetting", FormMethod.Post, new { id = "submitE+" + dr["PATENT_KEY"].ToString() + "" }))
+                                                                    {
+
+                                                                        <input type="hidden" name="editid" value="@dr["PATENT_KEY"].ToString()" />
+
+                                                                        <a id="submitE+@dr["PATENT_KEY"].ToString()" href="#" onclick="postmethodusingjs(this.id)" class="list-icons-item"><i class="icon-menu9"></i></a>
+
+                                                                    }
+                                                                </td>
+
+                                                                <td>
+                                                                    @using (Html.BeginForm("delete", "HomeSetting", FormMethod.Post, new { id = "submitD+" + dr["PATENT_KEY"].ToString() + "" }))
+                                                                    {
+
+                                                                        <input type="hidden" name="editid" value="@dr["PATENT_KEY"].ToString()" />
+
+                                                                        <a id="submitD+@dr["PATENT_KEY"].ToString()" href="#" onclick="postmethodusingjs(this.id)" class="list-icons-item"><i class="icon-trash"></i></a>
+
+                                                                    }
+                                                                </td>
+                                                                @{i = i + 1;}
+                                                            </tr>
+
+                                                        }
+
+
+
+
+                                                    </tbody>
+                                                </table>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </fieldset>
+                            </div>
+
+
+
+
+                            <div class="col-md-4">
+                                <fieldset>
+                                    <legend>Quick Fact Image</legend>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label>
+                                                    Upload Image (Accepted Format .png, .jpg, .jpeg only. Max size 2MB)
+                                                </label>
+                                                <input type="file" name="fu_QuickFact" id="fu_QuickFact" class="form-input-styled" data-fouc accept=".gif, .png, .jpg, .jpeg, .svg" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-8 ml-auto mr-auto">
+                                            <img id="img_QuickFact" src="@ViewBag.img_QuickFact" class="form-control preview" runat="server" />
+                                        </div>
+                                    </div>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <input type="submit" value="Submit" onclick="postmethodusingheadsavejs();" class="mb-xs mt-xs btn btn-success" />
+
+                </div>
+            </div>
+        </div>
+    }
+</div>
+@if (TempData["JavaScriptFunction"] != null)
+{
+
+    <script type="text/javascript">
+               @Html.Raw(TempData["JavaScriptFunction"]);
+    </script>
+}
+<script type="text/javascript">
+
+    function postmethodusingjs(id) {
+        document.forms[id].submit();
+        return false;
+    }
+    function btn_Quick_fact_save_js() {
+        document.forms["from_Quick_fact_save"].submit();
+        return false;
+    }
+
+    function postmethodusingheadsavejs() {
+        document.forms["submitform"].submit();
+        return false;
+    }
+</script>
+
+
+
+<script type="text/javascript">
+
+    function OpenTab2(strMsg, error) {
+        $("#tab1").hide();
+        $("#tab3").hide();
+        $("#tab2").fadeIn();
+        if ($.trim(strMsg) != '') {
+            if (error == 1)
+                openErrorPopup(strMsg);
+            else
+                openSuccessPopup(strMsg);
+        }
+    }
+
+    function OpenTab3(strMsg, error) {
+        $("#tab1").hide();
+        $("#tab3").fadeIn();
+        $("#tab2").hide();
+
+        if ($.trim(strMsg) != '') {
+            if (error == 1)
+                openErrorPopup(strMsg);
+            else
+                openSuccessPopup(strMsg);
+        }
+    }
+
+    function readURLView(input) {
+        $(".modal-content").remove();
+        if (input.files) {
+            var filesAmount = input.files.length;
+            for (i = 0; i < filesAmount; i++) {
+                var reader = new FileReader();
+                reader.onload = function (event) {
+                    $("#myModal").append($($.parseHTML('<img>')).attr('src', event.target.result).addClass("modal-content"));
+                }
+                reader.readAsDataURL(input.files[i]);
+            }
+        }
+    }
+
+    function readURLHomepage(src) {
+        $(".modal-content").remove();
+        $("#myModal").append($($.parseHTML('<img>')).attr('src', "../../documents/homepage/" + src).addClass("modal-content"));
+    }
+
+    function readURLQuickfact(src) {
+        $(".modal-content").remove();
+        $("#myModal").append($($.parseHTML('<img>')).attr('src', "../../documents/quickfact/" + src).addClass("modal-content"));
+    }
+
+    function readURLInterface(src) {
+        $(".modal-content").remove();
+        $("#myModal").append($($.parseHTML('<img>')).attr('src', "../../documents/interface/" + src).addClass("modal-content"));
+    }
+
+
+    $(document).ready(function () {
+        $('.form-input-styled').uniform({
+            fileButtonClass: 'action btn bg-pink-400'
+        });
+
+        $("#fu_Banner").on("change", function (evt) {
+            var tgt = evt.target || window.event.srcElement, files = tgt.files;
+            if (files.length > 0) {
+                if (files[0].size > 2713400) {
+                    $(this).val("");
+                    $(this).next(".filename").text("No file selected");
+                    $('#img_banner').attr("src", "~/Content/images/no_image.jpg");
+                    $(this).focus();
+                    openErrorPopup("Please maintain allowed document size (2MB maximum).");
+                }
+                else {
+                    readURL(this, $('#img_banner'));
+                }
+            }
+            else {
+                $('#img_banner').attr("src", "~/Content/images/no_image.jpg");
+            }
+        });
+
+        $("#fu_QuickFact").on("change", function (evt) {
+
+            var tgt = evt.target || window.event.srcElement, files = tgt.files;
+            if (files.length > 0) {
+                if (files[0].size > 2713400) {
+                    $(this).val("");
+                    $(this).next(".filename").text("No file selected");
+                    $('#img_QuickFact').attr("src", "~/Content/images/no_image.jpg");
+                    $(this).focus();
+                    openErrorPopup("Please maintain allowed document size (2MB maximum).");
+                }
+                else {
+                    readURL(this, $('#img_QuickFact'));
+                }
+            }
+            else {
+                $('#img_QuickFact').attr("src", "~/Content/images/no_image.jpg");
+            }
+        });
+        $("#fu_Interface").on("change", function (evt) {
+            var tgt = evt.target || window.event.srcElement, files = tgt.files;
+            if (files.length > 0) {
+                if (files[0].size > 2713400) {
+                    $(this).val("");
+                    $(this).next(".filename").text("No file selected");
+                    $('#fu_Interface').attr("src", "~/Content/images/no_image.jpg");
+                    $(this).focus();
+                    openErrorPopup("Please maintain allowed document size (2MB maximum).");
+                }
+                else {
+                    readURL(this, $('#fu_Interface'));
+                }
+            }
+            else {
+                $('#fu_Interface').attr("src", "~/Content/images/no_image.jpg");
+            }
+        });
+
+
+        $('#Interface_View').click(function () {
+            if ($('#fu_Interface')[0].files.length > 0) {
+                readURLView($('#fu_Interface')[0]);
+                $("#myModal").css('display', 'block');
+            }
+            else if ($('#hf_INTERFACE_IMG').val() != "") {
+                readURLInterface($('#hf_INTERFACE_IMG').val());
+                $("#myModal").css('display', 'block');
+            }
+
+            return false;
+        });
+
+
+        $('.close').click(function () {
+            $("#myModal").css('display', 'none');
+            return false;
+        });
+        $('#loadingMask').fadeOut();
+    });
+    $(document).keydown(function (e) {
+        if (e.keyCode == 27) { //Escape key maps to keycode `27`
+            $("#myModal").css('display', 'none');
+            return false;
+        }
+    });
+</script>
+
+

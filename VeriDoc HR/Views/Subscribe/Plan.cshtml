@@ -1,0 +1,877 @@
+﻿<!DOCTYPE html>
+
+<html ⚡ class="no-js" lang="en">
+<head runat="server">
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Title  -->
+    <title>@ViewBag.Title</title>
+    <link rel="canonical" href="https://vdghr.com/">
+    <meta name="keywords" content="@ViewBag.MetaKeywords" />
+    <meta name="description" content="@ViewBag.MetaDescription" />
+    <!-- Favicon  -->
+    <link rel="apple-touch-icon" sizes="57x57" href="~/Content/main-assets/img/icon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="~/Content/main-assets/img/icon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="~/Content/main-assets/img/icon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="~/Content/main-assets/img/icon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="~/Content/main-assets/img/icon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="~/Content/main-assets/img/icon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="~/Content/main-assets/img/icon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="~/Content/main-assets/img/icon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="~/Content/main-assets/img/icon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="~/Content/main-assets/img/icon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/Content/main-assets/img/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="~/Content/main-assets/img/icon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/Content/main-assets/img/icon/favicon-16x16.png">
+
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="~/Content/main-assets/img/icon//ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!-- ***** All CSS Files ***** -->
+    <link rel="preload" as="style" type="text/css" href="~/Content/bootstrap.min.css" media="screen" onload="this.rel='stylesheet'" />
+    <link rel="preload" as="style" type="text/css" href="~/Content/aos.css" onload="this.rel='stylesheet'" />
+    <link rel="preload" as="style" type="text/css" href="~/Content/styles.back.css" media="screen" onload="this.rel='stylesheet'" />
+
+    <link rel="preload" as="style" type="text/css" href="~/Content/font-awesome.min.css" media="screen" onload="this.rel='stylesheet'">
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script>
+        function subscribepopup() {
+            swal({
+                title: "Successful!",
+                text: "Thank you for subscribe us!",
+                icon: "success",
+                button: "Ok",
+            });
+        }
+        function popuperror() {
+            swal("Oops", "Please Fill All * Mark Filed !", "error")
+        }
+        function popupservererror() {
+            swal({
+                title: "Server Error!",
+                text: "Server error ! Try again later.",
+                icon: "error",
+                button: "Ok",
+            });
+        }
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-190569987-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-190569987-1');
+    </script>
+    <meta name="google-site-verification" content="4MQltQrrRBloo9V3vYbipnXhB9gx2q-z1CwR0hvlrAQ" />
+    <script type="application/ld+json">
+        {
+        "@@context": "https://schema.org/",
+        "@@type": "WebSite",
+        "name": "VeriDoc HR",
+        "url": "https://www.vdghr.com/",
+        "potentialAction": {
+        "@@type": "SearchAction",
+        "target": "https://www.vdghr.com/{search_term_string}https://www.vdghr.com/",
+        "query-input": "required name=search_term_string"
+        }
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+        "@@context": "https://schema.org",
+        "@@type": "Organization",
+        "name": "VeriDoc HR",
+        "url": "https://vdghr.com/",
+        "logo": "https://vdghr.com/documents/homepage/20210505_121918.svg"
+        }
+    </script>
+</head>
+
+<body>
+    <header class="navbar navbar-sticky navbar-expand-lg navbar-dark">
+        <div class="header_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 col-12">
+                        <ul id="div_phn_mail"><li><a href="tel:@ViewBag.CONTACT_NO"><i class="fa fa-mobile" aria-hidden="true"> </i>@ViewBag.CONTACT_NO</a></li><li><a href="mailto:@ViewBag.MAIL" class="border_none"><i class="fa fa-envelope" aria-hidden="true"></i>@ViewBag.MAIL</a></li></ul>
+                    </div>
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 col-12 text-right hidden_xs">
+                        <ul id="div_add">
+                            <li id="header_address">
+                                <svg width="12px" class="svg-inline--fa fa-map-marker fa-w-12" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="map-marker" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg="">
+                                    <path fill="currentcolor" d="M192,0C86,0,0,86,0,192c0,77.4,27,99,172.3,309.7c9.5,13.8,29.9,13.8,39.5,0C357,291,384,269.4,384,192C384,86,298,0,192,0z
+	 M192,269.5c-38.5,0-69.8-31.2-69.8-69.8S153.5,130,192,130s69.8,31.2,69.8,69.8S230.5,269.5,192,269.5z"></path>
+                                </svg>
+                                @*<i class="fa fa-map-marker" aria-hidden="true"></i>*@ @ViewBag.ADDRESS
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container position-relative main_menu">
+            <a href="~/" id="logo_list" class="navbar-brand">
+                <img class="navbar-brand-regular" src='@ViewBag.img_Logo' alt="VeriDoc HR" title="VeriDoc HR" width="244" height="50">
+                <img class="navbar-brand-sticky" src='@ViewBag.img_Logo' alt="VeriDoc HR" title="VeriDoc HR" width="244" height="50">
+            </a>
+            <button id="btnMenu" class="navbar-toggler d-lg-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="login_img1">
+                <a class="" href="https://my.veridochr.com/" target="_blank">
+                    <img src="~/Content/main-assets/img/nav-login-user-hover.png" alt="VeriDoc HR" class="img-fluid" title="VeriDoc HR" width="30" height="30">
+                </a>
+            </div>
+            <div class="navbar-inner">
+                <!--  Mobile Menu Toggler -->
+                <button class="navbar-toggler d-lg-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <nav>
+                    <ul class="navbar-nav" id="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/">
+                                Home
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/#featured">
+                                Benefits
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/#how_work">How It Works</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/#pricing">Pricing</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/#contact">Contact</a>
+                        </li>
+                        <li class="nav-item login_desktop">
+                            <a class="nav-link login_img" href="https://my.veridochr.com/" target="_blank">
+                                <img src="~/Content/main-assets/img/nav-login-user-hover.png" alt="VeriDoc hr" class="img-fluid" title="VeriDoc hr" width="30" height="30" class="img-fluid">
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+
+
+
+            </div>
+        </div>
+    </header>
+    <!--====== Scroll To Top Area Start ======-->
+    <div id="scrollUp" title="Scroll To Top">
+        <i class="fas fa-arrow-up"></i>
+    </div>
+    <!--====== Scroll To Top Area End ======-->
+
+    <section id="singup_page">
+        <div class="container">
+            <div class="sing_img" style="display:none">
+                <a href="/Home/Index#home">
+                    <img src="~/Content/main-assets/img/hr-reg-head.png" alt="">
+                </a>
+            </div>
+            <div class="sing_title">
+                <h1>SIGN UP NOW</h1>
+                @*<p>To start offering your customers quick, safe and secure check-ins</p>*@
+            </div>
+            @using (Html.BeginForm("initSquarePaymentAsync", "Payment", FormMethod.Post, new { id = "submitform" }))
+            {
+                @Html.AntiForgeryToken()
+
+        <div class="sing_content">
+            <div id="contact_details">
+                <div class="box_heading">
+                    <h4>CONTACT DETAILS</h4>
+                </div>
+
+                <div class="row">
+                    <input type="hidden" id="hf_DTLS_REGISTER_KEY" Value="@ViewBag.hf_DTLS_REGISTER_KEY" />
+                    <input type="hidden" id="hf_CUSTOMER_ID" name="hf_CUSTOMER_ID" Value="@ViewBag.hf_CUSTOMER_ID" />
+                    <input type="hidden" name="ProductId" id="ProductId" value="@ViewBag.SelectedProductId" />
+                    <input type="hidden" name="hfPlanName" id="hfPlanName" value="@ViewBag.PlanName" />
+                    <input type="hidden" name="hfPlanPrice" id="hfPlanPrice" value="@ViewBag.PlanPrice" />
+                    <div class="col-md-4 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>First Name</label>
+                            <input type="text" id="txt_FistName" name="txt_FistName" class="form-control" value="@ViewBag.txt_FistName" />
+                            <span id="sp_FiratName" style="color: seagreen"></span>
+
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>Last Name</label>
+                            <input type="text" id="txt_LastName" name="txt_LastName" class="form-control" value="@ViewBag.txt_LastName" />
+                            <span id="sp_LastName" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input type="text" id="txt_Eamil" name="txt_Eamil" class="form-control" value="@ViewBag.txt_Eamil" />
+                            <span id="sp_Email" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-8 col-8">
+                        <div class="form-group">
+                            <label>Phone Number</label>
+                            @Html.DropDownList("Phone-Number", ViewBag.Countrycode as SelectList, new { @class = "form-control populate" })
+
+
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12 col-12 mibile_fild">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="txt_Phone" name="txt_Phone" value="@ViewBag.txt_Phone" />
+                            <span>Please enter the phone number without plus sign ("+") and country code.</span>
+                            <span id="sp_Phone" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="Buttons_ga">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-6">
+                            <div class="form-group">
+                                <a href="~/">
+                                    <button type="button">Home</button>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-6 text-right">
+                            <div class="form-group">
+                                <button type="button" class="fist_step">Continue</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div id="company_details">
+                <div class="box_heading">
+                    <h4>COMPANY DETAILS</h4>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>Company Name</label>
+                            <input type="text" class="form-control" id="txt_Company_Name" name="txt_Company_Name" value="@ViewBag.txt_Company_Name" />
+                            <span id="sp_Company_Name" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-8 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>Company Address</label>
+                            <input type="text" class="form-control" id="txt_Company_Address" name="txt_Company_Address" value="@ViewBag.txt_Company_Address" />
+                            <span id="sp_Company_Address" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>Country</label>
+
+                            @Html.DropDownList("Country1", ViewBag.Country as SelectList, new { @class = "form-control", id = "ddl_country1" })
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>City</label>
+                            <input type="text" class="form-control" id="txt_City" name="txt_City" value="@ViewBag.txt_City" />
+                            <span id="sp_City" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>State</label>
+                            <input type="text" class="form-control" id="txt_State" name="txt_State" value="@ViewBag.txt_State" />
+                            <span id="sp_State" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-12">
+                        <div class="form-group">
+                            <label>ZIP Code</label>
+                            <input type="text" class="form-control" id="txt_ZIP" name="txt_ZIP" value="@ViewBag.txt_ZIP" />
+                            <span id="sp_Zip" style="color: seagreen"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="Buttons_ga">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-6">
+                            <div class="form-group">
+
+                                <button type="button" class="back">Back</button>
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-6 text-right">
+                            <div class="form-group">
+                                <button type="button" class="sce_step">Continue</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div id="pricing_details">
+                <div class="box_heading">
+                    <h4>PRICING PLAN</h4>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-8 col-sm-12 col-12" style="display:none;">
+                        <div class="form-group">
+                            <label>Select a plan</label>
+                            @*<select id="Phone-Number" name="Phone-Number" class="form-control">
+                            <option value="@ViewBag.PRICING_LIST_1">@ViewBag.PRICING_LIST_1</option>
+                            <option value="@ViewBag.PRICING_LIST_2">@ViewBag.PRICING_LIST_2</option>
+                            <option value="@ViewBag.PRICING_LIST_3">@ViewBag.PRICING_LIST_3</option>
+                        </select>*@
+                            @Html.DropDownList("ddl_DTLS_PACKAGE_KEY", ViewBag.Package as SelectList, new { @class = "form-control populate", @disabled = "disabled", })
+
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-12">
+                        <div class="form-group">
+                            <div class="maxl">
+                                <h4><span>Are your billing details the same as your sign up details?</span></h4>
+                                <br>
+                                <label class="radio inline">
+
+                                    <input type="radio" name="SameBillingDetails" value="yes" checked id="hide">
+                                    <span>Yes </span>
+                                </label>
+                                <label class="radio inline">
+                                    <input type="radio" name="SameBillingDetails" value="no" id="show">
+                                    <span>No </span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="billing_address">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>Company Name</label>
+                                <input type="text" class="form-control" id="txt_Alter_Company_Name" name="txt_Alter_Company_Name" value="@ViewBag.txt_Alter_Company_Name" />
+                                <span id="billing_companyName" style="color:seagreen"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>Company Address</label>
+                                <input type="text" class="form-control" id="txt_Alter_Company_Address" name="txt_Alter_Company_Address" value="@ViewBag.txt_Alter_Company_Address" />
+                                <span id="billing_companyAddress" style="color:seagreen"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>Country</label>
+                                @Html.DropDownList("AlterCountry", ViewBag.Country as SelectList, new { @class = "form-control", id = "ddl_alter_country" })
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label>City</label>
+                                <input type="text" id="txt_Alter_City" name="txt_Alter_City" class="form-control" value="@ViewBag.txt_Alter_City" />
+                                <span id="billing_companyCity" style="color:seagreen"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-6">
+                            <div class="form-group">
+                                <label>State</label>
+                                <input type="text" id="txt_Alter_State" name="txt_Alter_State" class="form-control" value="@ViewBag.txt_Alter_State" />
+                                <span id="billing_companyState" style="color:seagreen"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-6">
+                            <div class="form-group">
+                                <label>ZIP Code</label>
+                                <input type="text" id="txt_Alter_ZIP" name="txt_Alter_ZIP" class="form-control" value="@ViewBag.txt_Alter_ZIP" />
+                                <span id="billing_companyZip" style="color:seagreen"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="Buttons_ga">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-6">
+                            <div class="form-group">
+                                <button type="button" class="last_back">Back</button>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-6 text-right">
+                            <div class="form-group">
+                                <button type="button" class="sce_step" id="submitMobileBtn">Continue</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="Buttons_g">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-6">
+                            <div class="form-group">
+                                <a href="~/">
+                                    <button type="button" class="">Back</button>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-6 text-right">
+                            <div class="form-group">
+                                <button type="submit" onclick="return validation()" id="submitBtn">Continue</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+            }
+        </div>
+    </section>
+
+    <footer class="footer-area">
+        <!-- Footer Top -->
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-lg-4 col-md-12 ">
+                        <!-- Footer Items -->
+                        <div class="footer-items">
+                            <!-- Logo -->
+                            <a class="navbar-brand" href="/Home/Index#home" id="footer_logo">
+                                <img class="logo" src="@ViewBag.img_Logo" alt="VeriDoc HR" title="VeriDoc hr" width="244" height="50">
+                            </a>
+                            <p class="mt-2 mb-3"></p>
+                            <!-- Social Icons -->
+                            <div class="social_img">
+                                <ul class="social-links">
+                                    <li>
+                                        <a href='@ViewBag.FACEBOOK_LINK' target="_blank">
+                                            <img src=" ~/img/new-icon/facebook.svg" alt="Veridoc HR" title="facebook-icon" width="30" height="30">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='@ViewBag.TWITTER_LINK' target="_blank">
+                                            <img src=" ~/img/new-icon/twitter.svg" alt="Veridoc HR" title="twitter-icon" width="30" height="30">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='@ViewBag.INSTAGRAM_LINK' target="_blank">
+                                            <img src=" ~/img/new-icon/instagram.svg" alt="Veridoc HR" title="instagram-icon" width="30" height="30">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='@ViewBag.TELEGRAM_LINK' target="_blank">
+                                            <img src=" ~/img/new-icon/telegram.svg" alt="Veridoc HR" title="telegram-icon" width="30" height="30">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='@ViewBag.LINKEDIN_LINK' target="_blank">
+                                            <img src=" ~/img/new-icon/linkedin.svg" alt="Veridoc HR" title="linkedin-icon" width="30" height="30">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='@ViewBag.PRINTEREST_LINK' target="_blank">
+                                            <img src=" ~/img/new-icon/pinterest.svg" alt="Veridoc HR" title="pinterest-icon" width="30" height="30">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href='@ViewBag.MEDIUM_LINK' target="_blank">
+                                            <img src=" ~/img/new-icon/medium.svg" alt="Veridoc HR" title="medium-icon" width="30" height="30">
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-12 col-lg-2 col-md-12 ">
+                        <!-- Footer Items -->
+                        <div class="footer-items">
+                            <!-- Footer Title -->
+                            <h3 class="footer-title mb-2">Useful Links</h3>
+                            <ul>
+                                <li class="py-2"><a href="/Home/Index#home">Home</a></li>
+                                <li class="py-2"><a href="/Home/Index#featured">Benefits</a></li>
+                                <li class="py-2"><a href="/Home/Index#how_work">How It Works</a></li>
+                                <li class="py-2"><a href="/Home/Index#pricing">Pricing</a></li>
+                                <li class="py-2"><a href="/Home/Index#contact">Contact</a></li>
+                                <li class="py-2"><a href="/Sitemap">Sitemap</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-12 col-lg-4 col-md-12">
+                        <!-- Footer Items -->
+                        <div class="footer-items">
+                            <!-- Footer Title -->
+                            <h3 class="footer-title mb-2">Contact Us</h3>
+                            <div class="contact-us">
+                                <ul>
+                                    <li class="py-2">
+                                        <a class="media media-footer" href="#">
+                                            <div class="social-icon mr-lg-3">
+                                                <i class="fas fa-map-marker-alt"></i>
+                                            </div>
+                                            <span class="media-body" id="div_address">
+
+                                                @ViewBag.ADDRESS
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="py-2">
+                                        <a class="media" href="tel:@ViewBag.CONTACT_NO">
+                                            <div class="social-icon mr-lg-3">
+                                                <svg class="svg-inline--fa fa-phone-alt fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
+                                                    <path fill="currentColor" d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path>
+                                                </svg>
+                                                <!-- <i class="fas fa-phone-alt"></i> -->
+                                            </div>
+                                            <span class="media-body " id="footer_phone">@ViewBag.CONTACT_NO</span>
+                                        </a>
+                                    </li>
+                                    <li class="py-2">
+                                        <a class="media" href="mailto:@ViewBag.MAIL">
+                                            <div class="social-icon mr-lg-3">
+                                                <svg class="svg-inline--fa fa-envelope fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
+                                                    <path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+                                                </svg>
+                                                <!-- <i class="fas fa-envelope"></i> -->
+                                            </div>
+                                            <span class="media-body " id="footer_mail">@ViewBag.MAIL</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-12 col-lg-2 col-md-12">
+                        <!-- Footer Items -->
+                        <div class="footer-items">
+                            <!-- Footer Title -->
+                            <h3 class="footer-title mb-2">Download</h3>
+                            <!-- Store Buttons -->
+                            <div class="button-group store-buttons store-black d-flex flex-wrap">
+                                <a href="@ViewBag.APPSTORE_LINK" target="_blank">
+                                    <img src=" ~/img/icon/App Store-01.svg" alt="VeriDoc HR" title="VeriDoc hr" width="194" height="58">
+                                </a>
+                                <a href="@ViewBag.GOOGLEPLAY_LINK" target="_blank">
+                                    <img src=" ~/img/icon/Google play-01.svg" alt="VeriDoc HR" title="VeriDoc hr" width="194" height="58">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <!-- jQuery(necessary for all JavaScript plugins) -->
+    <script src="~/Content/main-assets/js/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="~/Content/main-assets/js/jquery.floating-social-share.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="~/Content/main-assets/js/bootstrap/popper.min.js"></script>
+    <script src="~/Content/main-assets/js/bootstrap/bootstrap.min.js"></script>
+    <!-- Plugins js -->
+    <script src="~/Content/main-assets/js/plugins/plugins.min.js"></script>
+    <!-- Active js -->
+    <script src="~/Content/main-assets/js/active.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#hide").click(function () {
+                $(".billing_address").hide();
+            });
+
+            $("#show").click(function () {
+                $(".billing_address").show();
+            });
+
+            $("#submitBtn").click(function (e) {
+                validation(e);
+            });
+        });
+    </script>
+
+
+    <script>
+        //$(".fist_step").click(function(){
+        //  $("#company_details").show();
+        //   $("#contact_details").hide();
+        //});
+
+        $(".back").click(function () {
+            $("#company_details").hide();
+            $("#contact_details").show();
+        });
+
+        //$(".sce_step").click(function(){
+        //  $("#pricing_details").show();
+        //   $("#company_details").hide();
+        //});
+
+        $(".last_back").click(function () {
+            $("#pricing_details").hide();
+            $("#company_details").show();
+        });
+    </script>
+
+
+    <script type="text/javascript">
+        function validation() {
+
+            if (document.getElementById("txt_FistName").value == "") {
+
+                document.getElementById("sp_FiratName").innerHTML = "First Name Filed can not be blank";
+                document.getElementById("txt_FistName").focus();
+                return false;
+                $("#company_details").hide();
+                $("#contact_details").show();
+            }
+
+            else if (document.getElementById("txt_LastName").value == "") {
+
+                document.getElementById("sp_LastName").innerHTML = "Last Name Filed can not be blank";
+                document.getElementById("txt_LastName").focus();
+                return false;
+                $("#company_details").hide();
+                $("#contact_details").show();
+            }
+
+            else if (document.getElementById("txt_Eamil").value == "") {
+
+                document.getElementById("sp_Email").innerHTML = "Email Id Filed can not be blank";
+                document.getElementById("txt_Eamil").focus();
+                return false;
+                $("#company_details").hide();
+                $("#contact_details").show();
+            }
+            var emailPat = /^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
+            var emailid = document.getElementById("txt_Eamil").value;
+            var matchArray = emailid.match(emailPat);
+            if (matchArray == null) {
+                document.getElementById("sp_Email").innerHTML = "Your email address seems incorrect. Please try again.";
+                document.getElementById("txt_Eamil").focus();
+                return false;
+            }
+            else if (document.getElementById("txt_Phone").value == "") {
+
+                document.getElementById("sp_Phone").innerHTML = "Phone Number Filed can not be blank";
+                document.getElementById("txt_Phone").focus();
+                return false;
+                $("#company_details").hide();
+                $("#contact_details").show();
+            }
+            var phonePat = '^[0-9]{0,10}$';
+            var phone = document.getElementById("txt_Phone").value;
+            var matchPhone = phone.match(phonePat);
+            if (matchPhone == null) {
+                document.getElementById("sp_Phone").innerHTML = "Your Phone Number seems incorrect. Please try again.";
+                document.getElementById("txt_Phone").focus();
+                return false;
+            }
+
+            else {
+                $("#company_details").show();
+                $("#contact_details").hide();
+            }
+        }
+
+        function validation(e) {
+            if (document.getElementById("txt_FistName").value == "") {
+                document.getElementById("sp_FiratName").innerHTML = "Enter First Name";
+                document.getElementById("txt_FistName").focus();
+                return false;
+            }
+
+            else if (document.getElementById("txt_LastName").value == "") {
+                document.getElementById("sp_LastName").innerHTML = "Enter Last Name";
+                document.getElementById("txt_LastName").focus();
+                return false;
+            }
+
+            else if (document.getElementById("txt_Eamil").value == "") {
+                document.getElementById("sp_Email").innerHTML = "Enter Email Id";
+                document.getElementById("txt_Eamil").focus();
+                return false;
+            }
+            var emailPat = /^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
+            var emailid = document.getElementById("txt_Eamil").value;
+            var matchArray = emailid.match(emailPat);
+            if (matchArray == null) {
+                document.getElementById("sp_Email").innerHTML = "Enter valid email address";
+                document.getElementById("txt_Eamil").focus();
+                return false;
+            }
+            else if (document.getElementById("txt_Phone").value == "") {
+
+                document.getElementById("sp_Phone").innerHTML = "Enter Phone Number";
+                document.getElementById("txt_Phone").focus();
+                return false;
+            }
+            var phonePat = '^[0-9]{0,10}$';
+            var phone = document.getElementById("txt_Phone").value;
+            var matchPhone = phone.match(phonePat);
+            if (matchPhone == null) {
+                document.getElementById("sp_Phone").innerHTML = "Enter valid Phone Number";
+                document.getElementById("txt_Phone").focus();
+                return false;
+            }
+
+            if (document.getElementById("txt_Company_Name").value == "") {
+
+                document.getElementById("sp_Company_Name").innerHTML = "Enter Company Name";
+                document.getElementById("txt_Company_Name").focus();
+                return false;
+            }
+            else if (document.getElementById("txt_Company_Address").value == "") {
+
+                document.getElementById("sp_Company_Address").innerHTML = "Enter Company Address";
+                document.getElementById("txt_Company_Address").focus();
+                return false;
+            }
+            else if (document.getElementById("txt_City").value == "") {
+
+                document.getElementById("sp_City").innerHTML = "Enter City Name";
+                document.getElementById("txt_City").focus();
+                return false;
+            }
+            else if (document.getElementById("txt_State").value == "") {
+
+                document.getElementById("sp_State").innerHTML = "Enter State Name";
+                document.getElementById("txt_State").focus();
+                return false;
+            }
+            else if (document.getElementById("txt_ZIP").value == "") {
+
+                document.getElementById("sp_Zip").innerHTML = "Enter ZIP Code";
+                document.getElementById("txt_ZIP").focus();
+                return false;
+            }
+            else if (document.getElementById("show").checked) {
+                if (document.getElementById("txt_Alter_Company_Name").value == "") {
+                    document.getElementById("billing_companyName").innerHTML = "Enter Company Name";
+                    document.getElementById("txt_Alter_Company_Name").value = "";
+                    document.getElementById("txt_Alter_Company_Name").focus();
+                    return false;
+                }
+
+                if (document.getElementById("txt_Alter_Company_Address").value == "") {
+                    document.getElementById("billing_companyAddress").innerHTML = "Enter Company Address";
+                    document.getElementById("txt_Alter_Company_Address").value = "";
+                    document.getElementById("txt_Alter_Company_Address").focus();
+                    return false;
+                }
+
+                if (document.getElementById("txt_Alter_City").value == "") {
+                    document.getElementById("billing_companyCity").innerHTML = "Enter Company City";
+                    document.getElementById("txt_Alter_City").value = "";
+                    document.getElementById("txt_Alter_City").focus();
+                    return false;
+                }
+
+                if (document.getElementById("txt_Alter_State").value == "") {
+                    document.getElementById("billing_companyState").innerHTML = "Enter Company State";
+                    document.getElementById("txt_Alter_State").value = "";
+                    document.getElementById("txt_Alter_State").focus();
+                    return false;
+                }
+
+                if (document.getElementById("txt_Alter_ZIP").value == "") {
+                    document.getElementById("billing_companyZip").innerHTML = "Enter Company ZIP Code";
+                    document.getElementById("txt_Alter_ZIP").value = "";
+                    document.getElementById("txt_Alter_ZIP").focus();
+                    return false;
+                }
+
+
+
+            }
+            validateBillingData(e);
+        }
+
+        $(".fist_step").click(function () {
+            validation();
+
+        });
+
+        function validation2() {
+
+            if (document.getElementById("txt_Company_Name").value == "") {
+
+                document.getElementById("sp_Company_Name").innerHTML = "Company Name Filed can not be blank";
+                document.getElementById("txt_Company_Name").focus();
+                return false;
+                $("#pricing_details").hide();
+                $("#company_details").show();
+            }
+
+            else if (document.getElementById("txt_Company_Address").value == "") {
+
+                document.getElementById("sp_Company_Address").innerHTML = "Company Address Filed can not be blank";
+                document.getElementById("txt_Company_Address").focus();
+                return false;
+                $("#pricing_details").hide();
+                $("#company_details").show();
+            }
+
+            else if (document.getElementById("txt_City").value == "") {
+
+                document.getElementById("sp_City").innerHTML = "Company City Filed can not be blank";
+                document.getElementById("txt_City").focus();
+                return false;
+                $("#pricing_details").hide();
+                $("#company_details").show();
+            }
+
+            else {
+                $("#pricing_details").show();
+                $("#company_details").hide();
+            }
+        }
+
+        $(".sce_step").click(function () {
+            validation2();
+
+        });
+        function error() {
+            document.getElementById("sp_FiratName").innerHTML = "";
+            document.getElementById("sp_LastName").innerHTML = "";
+            document.getElementById("sp_Email").innerHTML = "";
+            document.getElementById("sp_Phone").innerHTML = "";
+            document.getElementById("sp_Company_Name").innerHTML = "";
+
+            document.getElementById("sp_Company_Address").innerHTML = "";
+            document.getElementById("sp_City").innerHTML = "";
+
+
+        }
+        $(".form-control").on("click", function () {
+            error();
+        });
+
+
+    </script>
+</body>
+</html>

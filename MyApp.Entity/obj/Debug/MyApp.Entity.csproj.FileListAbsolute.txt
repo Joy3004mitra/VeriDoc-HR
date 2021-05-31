@@ -1,0 +1,12 @@
+F:\yourflow\VeriDoc HR\MyApp.Entity\bin\Debug\MyApp.Entity.dll
+F:\yourflow\VeriDoc HR\MyApp.Entity\bin\Debug\MyApp.Entity.pdb
+F:\yourflow\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.csprojAssemblyReference.cache
+F:\yourflow\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CoreCompileInputs.cache
+F:\yourflow\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.dll
+F:\yourflow\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\bin\Debug\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\bin\Debug\MyApp.Entity.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.csprojAssemblyReference.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.csproj.CoreCompileInputs.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Debug\MyApp.Entity.pdb

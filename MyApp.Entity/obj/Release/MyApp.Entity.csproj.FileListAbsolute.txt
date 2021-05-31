@@ -1,0 +1,6 @@
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\bin\Release\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\bin\Release\MyApp.Entity.pdb
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Release\MyApp.Entity.csprojAssemblyReference.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Release\MyApp.Entity.csproj.CoreCompileInputs.cache
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Release\MyApp.Entity.dll
+D:\VERIDOC_HR\MVC\VeriDoc HR\MyApp.Entity\obj\Release\MyApp.Entity.pdb
